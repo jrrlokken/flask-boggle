@@ -1,0 +1,22 @@
+{
+  "name": "flask-boggle",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jrrlokken/flask-boggle.git"
+  },
+  "author": "Joshua Lokken",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jrrlokken/flask-boggle/issues"
+  },
+  "homepage": "https://github.com/jrrlokken/flask-boggle#readme",
+  "dependencies": {
+    "axios": "^0.19.2"
+  }
+}
